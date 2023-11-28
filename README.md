@@ -1,2 +1,2 @@
 # nextjs-dashboard
-My First Repo on Github
+My First Repo on Github.
